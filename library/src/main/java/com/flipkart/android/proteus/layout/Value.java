@@ -16,21 +16,16 @@
 
 package com.flipkart.android.proteus.layout;
 
-import java.util.List;
 import java.util.Map;
 
 /**
- * Layout
+ * Value
  *
- * This extends {@link Value} because an Attribute's {@link Value} can also be a {@link Layout}
+ * This is probably end up becoming an abstract class like {@link com.google.gson.JsonElement}
+ * because we need to support multiple types: {@link Layout}, {@link Map <String, Value>}, Arrays, and Primitives.
+ * I hope we don't end up reinventing the wheel for this.
  *
  * @author aditya.sharat
  */
-public interface Layout extends Value {
-
-    String getType();
-
-    Value get(String name);
-
-    List<Map<String, Value>> getAttributes();
+public interface Value {
 }
