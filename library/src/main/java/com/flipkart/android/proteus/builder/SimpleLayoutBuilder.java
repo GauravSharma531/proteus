@@ -21,7 +21,7 @@ import android.support.annotation.Nullable;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.flipkart.android.proteus.DataContext;
+import com.flipkart.android.proteus.data.DataContext;
 import com.flipkart.android.proteus.parser.LayoutHandler;
 import com.flipkart.android.proteus.toolbox.BitmapLoader;
 import com.flipkart.android.proteus.toolbox.IdGenerator;

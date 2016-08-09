@@ -19,7 +19,7 @@ package com.flipkart.android.proteus.view.manager;
 import android.support.annotation.Nullable;
 import android.view.View;
 
-import com.flipkart.android.proteus.DataContext;
+import com.flipkart.android.proteus.data.DataContext;
 import com.flipkart.android.proteus.binding.Binding;
 import com.flipkart.android.proteus.builder.LayoutBuilder;
 import com.flipkart.android.proteus.parser.LayoutHandler;

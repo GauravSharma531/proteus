@@ -25,7 +25,6 @@ import android.os.Build;
 import android.util.DisplayMetrics;
 import android.view.View;
 
-import com.flipkart.android.proteus.ImageLoaderCallback;
 import com.google.gson.JsonObject;
 
 import java.util.concurrent.CountDownLatch;

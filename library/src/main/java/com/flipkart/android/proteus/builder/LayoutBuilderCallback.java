@@ -21,7 +21,7 @@ import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.widget.Adapter;
 
-import com.flipkart.android.proteus.EventType;
+import com.flipkart.android.proteus.toolbox.EventType;
 import com.flipkart.android.proteus.toolbox.Styles;
 import com.flipkart.android.proteus.view.ProteusView;
 import com.google.gson.JsonElement;

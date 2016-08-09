@@ -29,8 +29,8 @@ import android.view.ViewGroup;
 import android.widget.Adapter;
 import android.widget.FrameLayout;
 
-import com.flipkart.android.proteus.EventType;
-import com.flipkart.android.proteus.ImageLoaderCallback;
+import com.flipkart.android.proteus.toolbox.EventType;
+import com.flipkart.android.proteus.toolbox.ImageLoaderCallback;
 import com.flipkart.android.proteus.builder.DataAndViewParsingLayoutBuilder;
 import com.flipkart.android.proteus.builder.LayoutBuilderCallback;
 import com.flipkart.android.proteus.builder.LayoutBuilderFactory;

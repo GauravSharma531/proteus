@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.flipkart.android.proteus;
+package com.flipkart.android.proteus.data;
 
 import android.support.annotation.Nullable;
 

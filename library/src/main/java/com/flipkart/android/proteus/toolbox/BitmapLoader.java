@@ -19,7 +19,6 @@ package com.flipkart.android.proteus.toolbox;
 import android.graphics.Bitmap;
 import android.view.View;
 
-import com.flipkart.android.proteus.ImageLoaderCallback;
 import com.google.gson.JsonObject;
 
 import java.util.concurrent.Future;

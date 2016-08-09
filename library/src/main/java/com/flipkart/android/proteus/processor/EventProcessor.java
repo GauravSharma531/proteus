@@ -16,7 +16,7 @@
 
 package com.flipkart.android.proteus.processor;
 
-import com.flipkart.android.proteus.EventType;
+import com.flipkart.android.proteus.toolbox.EventType;
 import com.flipkart.android.proteus.builder.LayoutBuilderCallback;
 import com.flipkart.android.proteus.view.ProteusView;
 import com.google.gson.JsonElement;

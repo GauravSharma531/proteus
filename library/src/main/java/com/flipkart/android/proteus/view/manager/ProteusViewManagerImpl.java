@@ -20,7 +20,7 @@ import android.support.annotation.Nullable;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.flipkart.android.proteus.DataContext;
+import com.flipkart.android.proteus.data.DataContext;
 import com.flipkart.android.proteus.binding.Binding;
 import com.flipkart.android.proteus.builder.LayoutBuilder;
 import com.flipkart.android.proteus.exceptions.InvalidDataPathException;
